@@ -7,7 +7,7 @@ A Software Engineer with industry experience bulidng automation systems speciali
 
 * Backend: NodeJS, Ruby
 * Databases: Mongodb, Mysql, Elastic search
-* Frontend: Reactjs, Embe, Vue
+* Frontend: Reactjs, Ember, Vue
 
 ## Some facts: 
 
