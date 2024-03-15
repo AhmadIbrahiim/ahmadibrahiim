@@ -21,7 +21,7 @@ A Software Engineer with industry experience in Full Stack development & Automat
 - 🚗 [3lagnb.com](https://3lagnb.com)
 Cairo based web app that has more than 350k road from - to almost every place in Cairo.
 
--  🔽 [Website Offline Downloader](https://github.com/AhmadIbrahiim/Website-downloader) (500⭐️ on github)
+-  🔽 [Website Offline Downloader](https://github.com/AhmadIbrahiim/Website-downloader) (+1500⭐️ on github)
 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js
 
 -  📸 [Imageiry.com](https://imageiry.com)
