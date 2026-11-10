@@ -18,13 +18,6 @@ A Software Engineer with industry experience in Full Stack development & Automat
 
 ## Some Projects:
 
-- [Lowqta / لقطة](https://www.lowqta.com/en)
-Products and recorded prices from stores in Egypt, in Arabic and English. Check the price history, then confirm the offer with the retailer.
-
-[![Lowqta's English homepage with product listings and store filters](https://raw.githubusercontent.com/AhmadIbrahiim/ahmed-ibrahim.com/master/content/images/posts/lowqta-home.webp)](https://www.lowqta.com/en)
-
-[How Lowqta checks discounts](https://www.lowqta.com/en/guides/real-discounts)
-
 - 🚗 [3lagnb.com](https://3lagnb.com)
 Cairo based web app that has more than 350k road from - to almost every place in Cairo.
 
@@ -42,9 +35,8 @@ Blood bot is the first Arabic Messenger Bot that allows people to request blood 
 - ❔[Mogrib.com](https://mogrib.com/)
 Mogrib is a arabic experience-sharing website that allow people to ask questions and get answered.
 
-
-
-
+- [Lowqta / لقطة](https://www.lowqta.com/en)
+Products and recorded prices from stores in Egypt, in Arabic and English.
 
 ### You can also find me on
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmedibrahhim/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ahmed_ibrahhim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ahmed-ibrahim.com/)  
